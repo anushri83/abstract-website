@@ -1,0 +1,69 @@
+.header-container{
+    display: flex;
+    background-color: black;
+    padding: 30px;
+    justify-content: space-between;
+}
+
+.header-left{
+    display:flex;
+    gap: 10px;
+}
+
+.header-right{
+    display: flex;
+    gap: 10px;
+}
+.btn-lg{
+    width: 150px;
+
+}
+
+.middle{
+    font-size: larger;
+    justify-content: center;
+    background-color: #dadbf1;
+    padding: 80px;
+}
+
+.text{
+    padding: 10px;
+}
+.container{
+    padding: 200px;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+.con1{
+    display: flex;
+    gap: 30px;
+}
+.con2{
+    display: flex;
+    gap: 30px;
+}
+.con3{
+    display: flex;
+    gap: 30px;
+}
+.h4{
+    font-weight: lighter;
+    text-align: justify;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    gap: 150px;
+    padding-left: 150px;
+}
+.footer5{
+    color: white; 
+    display: flex; 
+    align-items: end;
+}
+.foo{
+    font-weight: lighter; 
+    font-size: large;
+}
